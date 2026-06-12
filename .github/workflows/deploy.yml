@@ -50,4 +50,4 @@ jobs:
           
       - name: Publicar no Servidor
         id: deployment
-        uses: actions/deploy-pages@v4g
+        uses: actions/deploy-pages@v4
